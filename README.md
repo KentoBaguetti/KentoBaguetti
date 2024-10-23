@@ -8,8 +8,9 @@ I'm Kentaro, a computer science student from Japan studying in Canada. Here's so
 
  🌱 Interests:
  - Building stuff
- - Experimenting
+ - Reading (Technology and History mainly)
  - Football ⚽️
+ - Photography 📸
 
    LinkedIn:
    https://www.linkedin.com/in/barneskentaro <br>
