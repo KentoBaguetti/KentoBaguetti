@@ -14,4 +14,4 @@ I'm Kentaro, a computer science student from Japan studying in Canada. Here's so
 
    LinkedIn:
    https://www.linkedin.com/in/barneskentaro <br>
-   Personal Portfolio: https://www.kentarobarnes.com/
+   Personal Portfolio: https://www.kentarobarnes.com/ 
