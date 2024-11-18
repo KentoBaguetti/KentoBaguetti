@@ -1,6 +1,6 @@
 ### Hi there ✌️,
 
-I'm Kentaro, a computer science student from Japan studying in Canada. Here's some info about me!
+I'm Kentaro, a computer science student studying in Canada. Here's some info about me!
 <br>
 
 💻 Work Experience: <br>
