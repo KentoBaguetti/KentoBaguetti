@@ -8,7 +8,6 @@ I'm Kentaro, a computer science student studying in Canada. Here's some info abo
 
  🌱 Interests:
  - Building stuff
- - Reading (Technology and History mainly)
  - Football ⚽️
  - Photography 📸
 
