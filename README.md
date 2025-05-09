@@ -4,7 +4,7 @@ I'm Kentaro, a computer science student studying in Canada. Here's some info abo
 <br>
 
 💻 Work Experience: <br>
-- **Software Engineer Intern at Consign AI** - Fullstack development [Feb 2024 - Present]
+- **Software Engineer Intern at Consign AI** - Fullstack development [Feb 2024 - Mar 2025]
 
  🌱 Interests:
  - Building stuff
