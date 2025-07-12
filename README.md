@@ -5,7 +5,7 @@ I'm Kentaro, a computer science student studying in Canada. Here's some info abo
 
 💻 Work Experience: <br>
 - **Software Developer at The Chinese University of Hong Kong Business School** - Fullstack development [May 2025 - Present]
-- **Software Engineer Intern at Consign AI** - Fullstack development [Feb 2024 - Mar 2025]
+- **Software Engineer Intern at Consign AI** - Backend development [Feb 2024 - Mar 2025]
 
  🌱 Interests:
  - Building stuff
