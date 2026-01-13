@@ -10,9 +10,10 @@ I'm Kentaro, a computer science student studying in Canada. Here's some info abo
 - **Software Engineer Intern at Consign AI** - Full-stack development [Feb 2024 - Mar 2025]
 
  🌱 Interests:
- - Building stuff
+ - Building stuff 🛠️
  - Football ⚽️
  - Photography 📸
+ - Snowboarding 🏂
 
    LinkedIn:
    https://www.linkedin.com/in/barneskentaro <br>
