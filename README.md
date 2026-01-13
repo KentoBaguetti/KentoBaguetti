@@ -4,7 +4,7 @@ I'm Kentaro, a computer science student studying in Canada. Here's some info abo
 <br>
 
 💻 Work Experience: <br>
-- **Incoming Software Engineer Intern at Microsoft** - [Incoming Winter 2026]
+- **Software Engineer Intern at Microsoft** - [Jan 2026 - Present]
 - **Software Engineer Intern at Wello Wealth** - [Sep 2025 - Dec 2025]
 - **Software Developer at The Chinese University of Hong Kong Business School** - Full-stack development [May 2025 - Aug 2025]
 - **Software Engineer Intern at Consign AI** - Full-stack development [Feb 2024 - Mar 2025]
