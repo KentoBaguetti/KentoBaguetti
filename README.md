@@ -4,6 +4,7 @@ I'm Kentaro, a computer science student studying in Canada. Here's some info abo
 <br>
 
 💻 Work Experience: <br>
+- **Incoming Software Engineer Intern at Databricks** - [Jan 2027 - April 2027]
 - **Software Engineer Intern at Apple** - [May 2026 - September 2026]
 - **Software Engineer Intern at Microsoft** - [Jan 2026 - April 2026]
 - **Software Engineer Intern at Wello Wealth** - [Sep 2025 - Dec 2025]
